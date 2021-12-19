@@ -5,3 +5,8 @@
 
 - IIT Madras
 - Caesar School
+
+## Experiences
+
+- Former Customer Service Executive for BIAL
+- 
