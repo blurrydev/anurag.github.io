@@ -30,6 +30,12 @@ A lightweight reading list handler
 - Java
 - Javascript
 
+## Work Experience
+
+- Intership at IBM
+- Former Customer Service Executive in BIAL
+
+
 ## Certificates
 
 ![](images/Anurag_rotated_1.jpg)
