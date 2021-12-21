@@ -32,4 +32,5 @@ A lightweight reading list handler
 
 ## Certificates
 
+![](images/Anurag_rotated_1.jpg)
 
